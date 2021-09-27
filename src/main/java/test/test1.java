@@ -9,6 +9,7 @@ public class test1 {
         System.out.println("nihao3");
         System.out.println("hot-fix");
 
+        System.out.println("push test");
 
     }
 }
