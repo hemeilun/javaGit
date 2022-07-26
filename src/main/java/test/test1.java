@@ -15,5 +15,7 @@ public class test1 {
         int abc = 1023;
 
         System.out.println(abc);
+
+        int bb = abc;
     }
 }
