@@ -13,6 +13,7 @@ public class test1 {
 
         System.out.println("pull test");
         int abc = 1023;
-        
+
+        System.out.println(abc);
     }
 }

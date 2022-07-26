@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff100d73-7de4-4e18-942d-e4a917d55517" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../javaThings/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\javaThings\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yjDU7GnVkxPrLLQG4WNbWrkTLD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test1" />
+      <module name="javaGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff100d73-7de4-4e18-942d-e4a917d55517" name="Default Changelist" comment="" />
+      <created>1632756116245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632756116245</updated>
+      <workItem from="1632756118249" duration="789000" />
+      <workItem from="1632757352692" duration="594000" />
+      <workItem from="1632905568339" duration="8000" />
+      <workItem from="1658843009897" duration="1601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="412" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1658843122740">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="730" y="412" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1973.1152@0.0.1973.1152" timestamp="1658843122740" />
+    <state x="93" y="93" width="1787" height="966" key="DiffContextDialog" timestamp="1658844815021">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="93" y="93" width="1787" height="966" key="DiffContextDialog/0.0.1973.1152@0.0.1973.1152" timestamp="1658844815021" />
+    <state x="488" y="221" key="SettingsEditor" timestamp="1658843196760">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="488" y="221" key="SettingsEditor/0.0.1973.1152@0.0.1973.1152" timestamp="1658843196760" />
+    <state x="579" y="309" key="Vcs.Push.Dialog.v2" timestamp="1658844748281">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="579" y="309" key="Vcs.Push.Dialog.v2/0.0.1973.1152@0.0.1973.1152" timestamp="1658844748281" />
+    <state x="782" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1658844654832">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="782" y="489" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1973.1152@0.0.1973.1152" timestamp="1658844654832" />
+    <state x="709" y="363" key="git4idea.merge.GitPullDialog" timestamp="1658843768209">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="709" y="363" key="git4idea.merge.GitPullDialog/0.0.1973.1152@0.0.1973.1152" timestamp="1658843768209" />
+    <state x="780" y="437" key="git4idea.rebase.GitRebaseDialog" timestamp="1658843249449">
+      <screen x="0" y="0" width="1973" height="1152" />
+    </state>
+    <state x="780" y="437" key="git4idea.rebase.GitRebaseDialog/0.0.1973.1152@0.0.1973.1152" timestamp="1658843249449" />
+  </component>
+</project>
